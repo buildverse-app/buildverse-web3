@@ -2,7 +2,7 @@
   "name": "@buildverse/web3",
   "type": "module",
   "version": "0.0.12",
-  "packageManager": "pnpm@7.5.0",
+  "packageManager": "pnpm@7.5.1",
   "description": "",
   "author": "Dennis <dennis@sagaverse.games>",
   "license": "MIT",
