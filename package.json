@@ -1,18 +1,17 @@
 {
-  "name": "pkg-name",
+  "name": "@buildverse/web3",
   "type": "module",
-  "version": "0.0.0",
-  "packageManager": "pnpm@7.2.1",
+  "version": "0.0.11",
+  "packageManager": "pnpm@7.5.0",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "Dennis <dennis@sagaverse.games>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/pkg-name#readme",
+  "homepage": "https://buildverse.app",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/pkg-name.git"
+    "url": "git+https://github.com/buildverse-app/buildverse-web3"
   },
-  "bugs": "https://github.com/antfu/pkg-name/issues",
+  "bugs": "https://github.com/buildverse-app/buildverse-web3/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
